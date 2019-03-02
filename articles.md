@@ -25,5 +25,5 @@ This is a collection of the articles I've written.
 
 ---------------------------------------------------
 ```
-All the articles are put on Pixnet & Medium.
+All the articles are put on Pixnet or Medium.
 ```
