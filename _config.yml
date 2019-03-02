@@ -55,9 +55,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+ navbar-img: "/img/bgimage.png"
+ footer-img: "/img/bgimage.png"
+ page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -83,7 +83,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: /channel/UCmVQun_KSwvPnRBDWSX8gRw
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
