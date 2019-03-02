@@ -3,9 +3,12 @@ layout: page
 title: Projects
 subtitle: Who kills my free time?
 ---
-`This is a collection of some projects I've done.`
 
-- [v] finished
+```
+This is a collection of some projects I've done.
+```
+
+[v] finished
 ---------------------------------------
 
 ## Android game apps
@@ -17,4 +20,6 @@ subtitle: Who kills my free time?
 
 * [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game. It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. Click to [view a tutorial](https://youtu.be/i7J1B65YnUo) about designing this game.
 
-`All the source codes are put on Github.`
+```
+All the source codes are put on Github.
+```
