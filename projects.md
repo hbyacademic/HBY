@@ -17,4 +17,4 @@ This is a collection of some projects I've done.
 
 * [Nodes2.0](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk) - an exciting and causal funny game. **To pin all the dots one by one to spinning circle with taps.** The game is over when a dot gets touch with other dots. With different levels, it becomes challenging and interesting.
 
-* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game.
+* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game. It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking.
