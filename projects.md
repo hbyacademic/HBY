@@ -3,8 +3,10 @@ layout: page
 title: Projects
 subtitle: Who kills my free time?
 ---
+```
+This is a collection of some projects I've done.
+```
 
-    This is a collection of some projects I've done. 
 ---------------------------------------
 
 ## Android game apps
