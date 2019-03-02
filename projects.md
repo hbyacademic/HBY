@@ -15,6 +15,6 @@ This is a collection of some projects I've done.
 
 * [Ten10](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk) - a tile stacking game. 
 
-* [Nodes2.0](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk) - a pin circle game.
+* [Nodes2.0](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk) - an exciting and causal funny game. **To pin all the dots one by one to spinning circle with taps.** With different levels, it becomes challenging and interesting.
 
 * [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game.
