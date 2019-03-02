@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Articles
+subtitle: Who steals my free time?  
 ---
 
 ## Life articles
 * Nov 16 2018 [我人生中，「習慣」這件事](http://idiot3838.pixnet.net/blog/post/263952940)
 * Nov 03 2018 [你被成績綁架了嗎?](http://idiot3838.pixnet.net/blog/post/255381479)
-* Aug 27 2018 [打工生活 ─ 芭樂園](http://idiot3838.pixnet.net/blog/post/230828774)
+* Aug 27 2018 [打工生活 - 芭樂園](http://idiot3838.pixnet.net/blog/post/230828774)
 
 ## Technical articles
 * Jan 26 2019 [Morphological image processing](https://link.medium.com/I9R0YPIkPT)
