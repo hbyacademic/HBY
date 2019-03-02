@@ -71,8 +71,9 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+# rss: true
 # email: "someone@example.com"
+  youtube: channel/UCmVQun_KSwvPnRBDWSX8gRw
   medium: hbyacademic
   facebook: HBY.academic
   github: hbyacademic
@@ -83,8 +84,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-  youtube: channel/UCmVQun_KSwvPnRBDWSX8gRw
+#  instagram: deanat78 
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
