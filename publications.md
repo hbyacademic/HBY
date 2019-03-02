@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-<!--subtitle: xxxxxxxx-->
+subtitle: learn more about Visual Cryptography
 ---
 
 ## Journals
