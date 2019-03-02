@@ -7,7 +7,7 @@ subtitle: Who kills my free time?
 This is a collection of some projects I've done.
 ```
 
-- [] finished
+- [ ] finished
 ---------------------------------------
 
 ## Android game apps
