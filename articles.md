@@ -23,6 +23,7 @@ This is a collection of the articles I've written.
 * Jul 09 2018 [Alpha 影像混和](http://idiot3838.pixnet.net/blog/post/193630133)
 * Jul 08 2018 [形態學](http://idiot3838.pixnet.net/blog/post/192954170)
 
+---------------------------------------------------
 ```
 All the articles are put on Pixnet & Medium.
 ```
