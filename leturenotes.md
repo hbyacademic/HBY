@@ -4,7 +4,7 @@ title: Lecture notes
 ---
 
 ```
-Something useful!!!.
+Something useful!!!
 ```
 --------------------------------------
 
@@ -16,5 +16,5 @@ Something useful!!!.
 
 --------------------------------------
 ```
-Something useful!!!.
+Something useful!!!
 ```
