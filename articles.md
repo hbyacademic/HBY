@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Articles
-subtitle: Who steals my free time?  
+title: Articles 
 ---
 
 ```
