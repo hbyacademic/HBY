@@ -4,7 +4,7 @@ title: Lecture notes
 ---
 
 ```
-Something useful!!!
+Here are something useful in practice & theory.
 ```
 --------------------------------------
 
@@ -13,8 +13,3 @@ Something useful!!!
 
 ## Pattern Recognition
 - [Classifiers (Perceptron, Naive Bayes, Bayesian)](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190409.pdf)
-
---------------------------------------
-```
-Something useful!!!
-```
