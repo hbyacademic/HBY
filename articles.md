@@ -5,7 +5,8 @@ subtitle: Who steals my free time?
 ---
 
 ```
-This is a collection of the articles I've written.
+This is a collection of the articles I've written. 
+All the articles are put on Pixnet or Medium.
 ```
 ---------------------------------------------------
 
@@ -23,8 +24,3 @@ This is a collection of the articles I've written.
 * Jul 09 2018 [大津二值化法](http://idiot3838.pixnet.net/blog/post/193557941)
 * Jul 09 2018 [Alpha 影像混和](http://idiot3838.pixnet.net/blog/post/193630133)
 * Jul 08 2018 [形態學](http://idiot3838.pixnet.net/blog/post/192954170)
-
----------------------------------------------------
-```
-All the articles are put on Pixnet or Medium.
-```
