@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: learn more about Visual Cryptography
 ---
 
 ```
