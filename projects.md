@@ -6,6 +6,7 @@ subtitle: Who kills my free time?
 
 ```
 This is a collection of some projects I've done.
+All the source codes are put on Github.
 ```
 --------------------------------------
 
@@ -34,8 +35,3 @@ This is a collection of some projects I've done.
 <p align="center">
 <img src="../img/car.jpg" width="50%" hegiht="50%"/>
 </p>
-
----------------------------------------
-```
-All the source codes are put on Github.
-```
