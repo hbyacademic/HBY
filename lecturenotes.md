@@ -16,7 +16,7 @@ Here are something useful in practice & theory.
 
 ## Post Quantum Cryptography
 - [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf)
-The topics include
+The topics include <br>
 1. Quantum Computing
 2. The Circuit Model, Deutsch-Jozsa Problem, and Bernstein-Varizani Problem
 3. Simon's Algorithm
@@ -27,5 +27,5 @@ The topics include
 8. Congruential Public Key Cryptosystem (PKC) and Knapsack PKC
 9. Convolution Polynoimal Ring
 10. NTRU PKC
-11. Gaussian Her 
+11. Gaussian Heuristic 
 
