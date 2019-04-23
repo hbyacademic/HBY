@@ -15,8 +15,8 @@ Here are something useful in practice & theory.
 - [Classifiers (Perceptron, Naive Bayes, Bayesian)](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190409.pdf)
 
 ## Post Quantum Cryptography
-- [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf) <br>
-The topics include <br>
+- [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf) <br> <br>
+The topics include 
 1. Quantum Computing
 2. The Circuit Model, Deutsch-Jozsa Problem, and Bernstein-Varizani Problem
 3. Simon's Algorithm
@@ -30,8 +30,8 @@ The topics include <br>
 11. Gaussian Heuristic
 
 ## Information Theory and Data Compression Practices
-- [ITDCP - MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/ITDCP_20190423.pdf) <br>
-The topics include <br>
+- [ITDCP - MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/ITDCP_20190423.pdf) <br> <br>
+The topics include 
 1. Information Measures
 2. AEP and Entropy Rate
 3. Data Compression
