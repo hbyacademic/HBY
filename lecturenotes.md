@@ -27,5 +27,10 @@ The topics include <br>
 8. Congruential Public Key Cryptosystem (PKC) and Knapsack PKC
 9. Convolution Polynoimal Ring
 10. NTRU PKC
-11. Gaussian Heuristic 
+11. Gaussian Heuristic
+
+## Information Theory and Data Compression Practices
+- [ITDCP - MidtermScope] (https://github.com/hbyacademic/HBY/blob/master/Notes/ITDCP_20190423.pdf) <br>
+The topics include <br>
+
 
