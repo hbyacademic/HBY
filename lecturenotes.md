@@ -30,7 +30,10 @@ The topics include <br>
 11. Gaussian Heuristic
 
 ## Information Theory and Data Compression Practices
-- [ITDCP - MidtermScope] (https://github.com/hbyacademic/HBY/blob/master/Notes/ITDCP_20190423.pdf) <br>
+- [ITDCP - MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/ITDCP_20190423.pdf) <br>
 The topics include <br>
+1. Information Measures
+2. AEP and Entropy Rate
+3. Data Compression
 
 
