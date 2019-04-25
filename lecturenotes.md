@@ -16,7 +16,6 @@ Here are something useful in practice & theory.
 
 ## Post Quantum Cryptography
 - [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf) <br> <br>
-<object width='100%' height='600px' :data='urlPdf' type='https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf'></object>
 The topics include 
 1. Quantum Computing
 2. The Circuit Model, Deutsch-Jozsa Problem, and Bernstein-Varizani Problem
