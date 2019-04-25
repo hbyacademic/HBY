@@ -13,6 +13,7 @@ Here are something useful in practice & theory.
 
 ## Pattern Recognition
 - [Classifiers (Perceptron, Naive Bayes, Bayesian)](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190409.pdf)
+- [PR-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190426.pdf)
 
 ## Post Quantum Cryptography
 - [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf) <br> <br>
