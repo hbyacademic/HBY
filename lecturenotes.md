@@ -16,7 +16,7 @@ Here are something useful in practice & theory.
 - [PR-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190426.pdf)
 - [FLD, PCA, Eigenface](../Notes/PR_20190516.pdf)
 - [PR-FinalScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190602.pdf)
-
+- [Hierarchical Agglomerative Clustering, DBSCAN](https://github.com/hbyacademic/HBY/blob/master/Notes/PR_20190611.pdf)
 ## Post Quantum Cryptography
 - [PQC-MidtermScope](https://github.com/hbyacademic/HBY/blob/master/Notes/PQC_20190422.pdf) <br> <br>
 The topics include 
