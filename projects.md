@@ -37,6 +37,6 @@ All the source codes are put on Github.
 
 * [BrickBreaker](https://drive.google.com/file/d/1-MdgQVxb_uqqLjJP_mxADF-c-20paC0n/view?usp=drivesdk) - a brick-breaker game. **Tilting the phone to control the paddle** and keep the ball in the game. Your mission is to **remove all the breakable bricks** by hitting them with the ball. Interestingly, some bricks need more than a single hit.
 <p align="center">
-<img src="../img/brickbreaker.jpg" width="50%" hegiht="50%"/>
+<img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
 </p>
 
