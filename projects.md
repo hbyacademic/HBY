@@ -9,8 +9,8 @@ All the source codes are put on Github.
 ```
 --------------------------------------
 
-## Android game apps <br>
-developed by [processing 3.0](https://processing.org/)
+>## Android game apps
+>## developed by [processing 3.0](https://processing.org/)
 
 *  [Gomoku](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU) - an abstract strategy board game for **two players**. Players **take turns placing a piece** of their color (black or white) on one empty intersection. The winner is the first player to **form an unbroken row of five pieces horizontally, vertically, or diagonally**. You can [view a tutorial](https://youtu.be/txSBV9NB2jY) to learn how to build this game in simple version.
 
