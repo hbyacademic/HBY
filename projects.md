@@ -33,7 +33,7 @@ All the source codes are put on Github.
 * [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game. It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. Click to [view a tutorial](https://youtu.be/i7J1B65YnUo) about designing this game.
 
 <p align="center">
-<img src="../img/car.jpg" width="50%" hegiht="50%"/>
+<img src="../img/car.jpg" width="70%" hegiht="70%"/>
 </p>
 
 * [BrickBreaker](https://drive.google.com/file/d/1-MdgQVxb_uqqLjJP_mxADF-c-20paC0n/view?usp=drivesdk) - a brick-breaker game. **Tilting the phone to control the paddle** and keep the ball in the game. Your mission is to **remove all the breakable bricks** by hitting them with the ball. Interestingly, some bricks need more than a single hit.
