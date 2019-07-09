@@ -5,6 +5,10 @@
 #   baseURL: Define a base URL which will be combined with the value of
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
+openprocessing:
+  name: "OpenProcessing"
+  baseURL: "https://www.openprocessing.org/"
+  
 
 medium:
   name: "Medium"
