@@ -11,4 +11,4 @@ My research interests include **reversible data hiding, visual cryptography, dig
 
 - Since Jan. 2019, I have written articles about image processing on [medium](https://medium.com/@hbyacademic).
 
-- Since June 2019, I have written articles about visual localization on [My Website](https://hbyacademic.github.io/HBY/).
+- I'm a novice in the field of visual localization. To record my learning process, since Jun. 2019, I have written articles about visual localization on [My Website](https://hbyacademic.github.io/HBY/). 
