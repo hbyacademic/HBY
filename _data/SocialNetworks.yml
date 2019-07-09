@@ -9,7 +9,6 @@ openprocessing:
   name: "OpenProcessing"
   baseURL: "https://www.openprocessing.org/"
   icon: "fa-openprocessing"
-  
 
 medium:
   name: "Medium"
