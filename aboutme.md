@@ -19,4 +19,5 @@ My research interests include **reversible data hiding, visual cryptography, dig
       - know-how of sliding puzzle (at Jun. 4th, 2019 from Colombia) 
       - about smoothing filter (at Jan. 22th, 2019 from Taiwan)
       - about Sobel filter (at Feb. 16th, 2019 from Taiwan)
+      
   - first case connected from Denmark at Nov. 1st, 2018.
