@@ -15,8 +15,8 @@ My research interests include **reversible data hiding, visual cryptography, dig
 
 - Online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). 
    - online teaching experiences:  
+      - know-how of Flappy bird game (at Nov. 1st, 2018 from Denmark)
       - binzariation techniques (at Nov. 22th, 2018 from India)
       - know-how of sliding puzzle (at Jun. 4th, 2019 from Colombia) 
-      - about smoothing filter (at Jan. 22th, 2019 from Taiwan)
-      - about Sobel filter (at Feb. 16th, 2019 from Taiwan)
-      - first case connected from Denmark at Nov. 1st, 2018. (about Flappy bird game)
+      - smoothing filter (at Jan. 22th, 2019 from Taiwan)
+      - Sobel filter (at Feb. 16th, 2019 from Taiwan)
