@@ -16,6 +16,7 @@ All the articles are put on Pixnet or Medium.
 * Aug 27 2018 [打工生活(二) - 芭樂園](http://idiot3838.pixnet.net/blog/post/230828774)
 
 ## Technical articles
+* Sep 09 2019 [Old photo effect](https://link.medium.com/lS6vj5nqf0)
 * Jan 26 2019 [Morphological image processing](https://link.medium.com/I9R0YPIkPT)
 * Jan 19 2019 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) 
 * Jan 17 2019 [Canny Edge Detection](https://link.medium.com/m5NWuctkPT)
