@@ -29,19 +29,19 @@ All the source codes are put on Github.
 <img src="../img/dot.jpg" width="50%" hegiht="50%"/> 
 </p>
 
-* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game developed by [Processing](https://processing.org/). It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. Click to [view a tutorial](https://youtu.be/i7J1B65YnUo) about designing this game.
+* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game developed by [Processing](https://processing.org/). It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. Click to [view a tutorial](https://youtu.be/i7J1B65YnUo) about designing this game. [**PDF**](https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_017_CarcarAPP/CarParkingGame.pdf)
 
 <p align="center">
 <img src="../img/car.jpg" width="70%" hegiht="70%"/>
 </p>
 
-* [BrickBreaker](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a brick-breaker game developed by [Processing](https://processing.org/). **Tilting the phone to control the paddle** and keep the ball in the game. Your mission is to **remove all the breakable bricks** by hitting them with the ball. Interestingly, some bricks need more than a single hit. Here is the [game design tutorial](https://www.youtube.com/watch?v=4pWuqv7aU5k)
+* [BrickBreaker](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a brick-breaker game developed by [Processing](https://processing.org/). **Tilting the phone to control the paddle** and keep the ball in the game. Your mission is to **remove all the breakable bricks** by hitting them with the ball. Interestingly, some bricks need more than a single hit. Here is the [game design tutorial](https://www.youtube.com/watch?v=4pWuqv7aU5k). [**PDF**](https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_018_BrickBreakerApp/BrickBreaker.pdf)
 
 <p align="center">
 <img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
 </p>
 
-* [LightNonogram](https://drive.google.com/file/d/1NbLWCoXL7JxPNr7BnjfwiRIb2d_E_rAA/view?usp=drivesdk) - a puzzle game developed by [Processing](https://processing.org/). **Use the numbers in the rows and columns to solve the puzzle. These numbers tell you the runs of gray squares in each row and column.** The gray squares can be put in fill mode and the sign "X"s can be put in mark mode. Five lives are given when game starts. 
+* [LightNonogram](https://drive.google.com/file/d/1NbLWCoXL7JxPNr7BnjfwiRIb2d_E_rAA/view?usp=drivesdk) - a puzzle game developed by [Processing](https://processing.org/). **Use the numbers in the rows and columns to solve the puzzle. These numbers tell you the runs of gray squares in each row and column.** The gray squares can be put in fill mode and the sign "X"s can be put in mark mode. Five lives are given when game starts. [**PDF**](https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_019_LightNonogram/Nonogram.pdf)
 
 <p align="center">
 <img src="../img/nonogram.png" width="50%" hegiht="50%"/>
