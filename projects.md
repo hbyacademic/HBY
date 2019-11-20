@@ -41,8 +41,8 @@ All the source codes are put on Github.
 <img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
 </p>
 
-* [LightNonogram](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a puzzle game developed by [Processing](https://processing.org/). **Use the numbers in the rows and columns to solve the puzzle.** You can fill the gray squares in fill mode and sign "X" in mark mode. Five lives are given when game starts.
+* [LightNonogram](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a puzzle game developed by [Processing](https://processing.org/). **Use the numbers in the rows and columns to solve the puzzle. These numbers tell you the runs of gray squares in each row and column** You can fill the gray squares in fill mode and sign "X"s in mark mode. Five lives are given when game starts. 
 
-<img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
+<img src="../img/nonogram.png" width="50%" hegiht="50%"/>
 </p>
 
