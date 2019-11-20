@@ -9,7 +9,7 @@ All the source codes are put on Github.
 ```
 --------------------------------------
 
-## Android mobile game apps 
+## Android mobile games
 
 *  [Gomoku](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU) - an abstract strategy board game for **two players** developed by [Processing](https://processing.org/). Players **take turns placing a piece** of their color (black or white) on one empty intersection. The winner is the first player to **form an unbroken row of five pieces horizontally, vertically, or diagonally**. You can [view a tutorial](https://youtu.be/txSBV9NB2jY) to learn how to build this game in simple version.
 
@@ -38,6 +38,11 @@ All the source codes are put on Github.
 * [BrickBreaker](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a brick-breaker game developed by [Processing](https://processing.org/). **Tilting the phone to control the paddle** and keep the ball in the game. Your mission is to **remove all the breakable bricks** by hitting them with the ball. Interestingly, some bricks need more than a single hit.
 
 <p align="center">
+<img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
+</p>
+
+* [LightNonogram](https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk) - a puzzle game developed by [Processing](https://processing.org/). **Use the numbers in the rows and columns to solve the puzzle.** You can fill the gray squares in fill mode and sign "X" in mark mode. Five lives are given when game starts.
+
 <img src="../img/brickbreaker.png" width="50%" hegiht="50%"/>
 </p>
 
