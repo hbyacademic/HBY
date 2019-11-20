@@ -29,7 +29,7 @@ All the source codes are put on Github.
 <img src="../img/dot.jpg" width="50%" hegiht="50%"/> 
 </p>
 
-* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game developed by [Processing](https://processing.org/). It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. [`tutorial video`](https://youtu.be/i7J1B65YnUo); [`tutorial PDF`](https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_017_CarcarAPP/CarParkingGame.pdf)
+* [Carcar](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk) - a car parking game developed by [Processing](https://processing.org/). It is provided with four control buttons, which are left, right, forward, and toward. The goal is to **drive the car into the parking space.** There is no time limit to practice parking. [`tutorial video`](https://youtu.be/i7J1B65YnUo) [`tutorial PDF`](https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_017_CarcarAPP/CarParkingGame.pdf)
 
 <p align="center">
 <img src="../img/car.jpg" width="70%" hegiht="70%"/>
