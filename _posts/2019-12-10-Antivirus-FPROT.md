@@ -10,11 +10,14 @@ tags: ["X-forwarding", "ssh"]
 - download F-PROT Antivirus for Linux Workstations Version 6.2.39 (GZIP-ed TAR file)
 - extract TAR file by `tar -xzvf`
 
-## Simple command 
+## Simple command
 - `fpscan -a`
   - /all	Scan every files found on your computer. 
   Specifying additional paths after this switch has no effect since any path is a subset of all. 
   Boot sectors will also be scanned.
+  
+- ***`fpscan -a -o FILE`**
+  - same as `fpscan -a` and send report to FILE
 
 - `fpscan -l`
   - /local	Scan all local disks/partitions. 
