@@ -18,4 +18,4 @@ You can search these papers via Google Scholar.
 ## Conference
 * Chih-Yu Hsu, **Bo-Yuan Huang**, Liang-Yu Fan Chiang, Kuan-Wen Chen, "Monocular Camera Global Localization under Large Illumination Variation with Scene Structure Registration," IPPR Conference on Computer Vision, Graphics, and Image Processing, Taiwan, Aug. 2019.
 
-* **Bo-Yuan Huang**, Justie Su-Tzu Juan, "A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids," In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, pp. 244-255, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
+* **Bo-Yuan Huang**, Justie Su-Tzu Juan, "A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids," In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, pp. 244-255, 2017. [[pdf]](https://github.com/hbyacademic/HBY/blob/master/_posts/GCEAS0059.pdf) [[my close-up photo in conference]](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
