@@ -1,11 +1,8 @@
 <div class="list-circles">
   {% for item in include.items %}
     <div class="list-circles-item">
-      {% if item.img %}
-        <img src="{{ item.img }}" width="50%" hegiht="50%" align="center" class="item-img" />
-      {% endif %}
       {% if item.name %}
-        <h3 class="item-name">{{ item.name }} align="center"</h3>
+        <h3 class="item-name">{{ item.name }} </h3>
       {% endif %} 
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
@@ -36,9 +33,13 @@
             <span class="fa fa-file-pdf-o fa-2x"></span>
           </a>
         {% endif %}
+        {% if item.img %}
+          <img src="{{ item.img }}" width="50%" hegiht="50%" align="center" class="item-img" />
+        {% endif %}
       </div>
     </div>
-    
+    <br>
+    <br>
     <br>
   {% endfor%}
 </div>
