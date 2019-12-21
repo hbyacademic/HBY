@@ -11,9 +11,7 @@ All the source codes are put on Github.
 
 ## Android mobile games
 
-*  [Gomoku](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU) - an abstract strategy board game for **two players** developed by [Processing](https://processing.org/). Players **take turns placing a piece** of their color (black or white) on one empty intersection. The winner is the first player to **form an unbroken row of five pieces horizontally, vertically, or diagonally**. You can [view a tutorial](https://youtu.be/txSBV9NB2jY) to learn how to build this game in simple version. <a class="item-link" href="{{ https://youtu.be/txSBV9NB2jY }}" title="Website">
-            <span class="fa fa-home"></span>
-          </a>
+*  [Gomoku](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU) - an abstract strategy board game for **two players** developed by [Processing](https://processing.org/). Players **take turns placing a piece** of their color (black or white) on one empty intersection. The winner is the first player to **form an unbroken row of five pieces horizontally, vertically, or diagonally**. You can [view a tutorial](https://youtu.be/txSBV9NB2jY) to learn how to build this game in simple version.
 
 <p align="center">
 <img src="../img/piece.jpg" width="50%" hegiht="50%"/>
