@@ -28,9 +28,14 @@ subtitle: know more about me
 - Car parking game - [Carcar](https://youtu.be/i7J1B65YnUo) (Take the idea from [here](http://www.agame.com/games/parking)) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk).
 
 ## Recent Publications 📚
-Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion.](https://www.mdpi.com/2410-387X/2/4/28) Cryptography, 2(4), 28.
-Chang, J., **Huang, B. Y.**, & Juan, J. (2018). [A New Visual Multi-Secrets Sharing Scheme by Random Grids.](https://www.mdpi.com/2410-387X/2/3/24) Cryptography, 2(3), 24.
-**Huang, B. Y.**, & Juan, J. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
+- Ying-Yu Chen, **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28)," Cryptography, 2(4), 28, 2018.
+
+- Joy Jo-Yi Chang, **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24)," Cryptography, 2(3), 24, 2018.
+
+## Conference
+- Chih-Yu Hsu, **Bo-Yuan Huang**, Liang-Yu Fan Chiang, Kuan-Wen Chen, "Monocular Camera Global Localization under Large Illumination Variation with Scene Structure Registration," IPPR Conference on Computer Vision, Graphics, and Image Processing, Taiwan, Aug. 2019.
+
+-  **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids](https://github.com/hbyacademic/HBY/blob/master/_posts/GCEAS0059.pdf)," In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, Jul. 2017.  [[my close-up photo in conference]](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
 
 ## Experience 🔍
 - Online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
