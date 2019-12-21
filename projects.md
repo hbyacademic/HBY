@@ -21,4 +21,4 @@ These projects are in a usable form. Packages have been developed following
 RECON's standards, are fully functional, documented and tested, and have been
 released on CRAN.
 
-{% include list-circles.html items=page.project-list %}
+{% include clickable.html items=page.project-list %}
