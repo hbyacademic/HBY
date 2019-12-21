@@ -49,6 +49,6 @@ project-list:
 
 ## Released projects and packages
 
-ddddd
+These projects are developed by Processing.
 
 {% include clickable.html items=page.project-list %}
