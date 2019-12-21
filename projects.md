@@ -7,7 +7,7 @@ project-list:
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     url: https://www.repidemicsconsortium.org/distcrete
     website: https://www.repidemicsconsortium.org/distcrete
-    img: https://github.com/hbyacademic/HBY/blob/master/img/piece.jpg
+    img: ../img/piece.jpg
   
 ---
 
