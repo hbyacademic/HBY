@@ -3,7 +3,7 @@ title: Projects
 bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
-    desc: An abstract strategy board game for <b>two players</b> developed by [Processing](https://processing.org/). Players <b>take turns placing a piece</b> of their color (black or white) on one empty intersection. The winner is the first player to <b>form an unbroken row of five pieces horizontally, vertically, or diagonally</b>.
+    desc: An abstract strategy board game for <b>two players</b> developed by <a href="https://processing.org/"><. Players <b>take turns placing a piece</b> of their color (black or white) on one empty intersection. The winner is the first player to <b>form an unbroken row of five pieces horizontally, vertically, or diagonally</b>.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     
   - name: Ten10
