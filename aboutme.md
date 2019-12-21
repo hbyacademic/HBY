@@ -28,6 +28,21 @@ My research interests include **reversible data hiding, visual cryptography, dig
 
 - [Morphological image processing](https://link.medium.com/I9R0YPIkPT) (read ratio: 67%)
 
+## Android Game Design 🎰
+Gomoku game - [Gomoku](https://www.youtube.com/watch?v=txSBV9NB2jY&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=2). If you are interested, please [click for Free Download](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU).
+
+Tiles stacking game - [Ten10](https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1) (Take the idea from [here](http://twenty.frenchguys.net/)) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk).
+
+Pin circle game - [Nodes2.0](https://www.youtube.com/watch?v=lVMKEyO-cZs&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy) (Take the idea from  [here](https://m.apkpure.com/pin-circle/com.litegames.aa)) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk).
+
+Car parking game - [Carcar](https://youtu.be/i7J1B65YnUo) (Take the idea from [here](http://www.agame.com/games/parking)) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk).
+
+## Recent Publications 📚
+Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion.](https://www.mdpi.com/2410-387X/2/4/28) Cryptography, 2(4), 28.
+
+Chang, J., **Huang, B. Y.**, & Juan, J. (2018). [A New Visual Multi-Secrets Sharing Scheme by Random Grids.](https://www.mdpi.com/2410-387X/2/3/24) Cryptography, 2(3), 24.
+
+**Huang, B. Y.**, & Juan, J. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
 - Online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
    - know-how of Flappy bird game (at Nov. 1st, 2018 from Denmark)
    - binzariation techniques (at Nov. 22th, 2018 from India)
