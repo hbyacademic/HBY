@@ -11,14 +11,21 @@ project-list:
   - name: Ten10
     desc: An additive game developed by Processing. <b>Collecting same tiles to form next stage tiles.</b> The goal is to get the final tile. Within a period of time, all the tiles move up. Once a tile reaches the top of the game border, game is over. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
+    game: https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk
+    youtube: https://youtu.be/-c3Kcaj54I
   
   - name: Nodes2.0
     desc: An exciting and causal funny game developed by Processing. <b>To pin all the dots one by one to spinning circle with taps.</b> The game is over when a dot gets touch with other dots. It becomes challenging and interesting when going through different levels.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_016_NodesAPP
+    game: https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk
+    youtube: https://youtu.be/lVMKEyO-cZs
   
   - name: Carcar
     desc: A car parking game developed by Processing. It is provided with four control buttons, which are left, right, forward, and toward. The goal is to <b>drive the car into the parking space.</b> There is no time limit to practice parking. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_017_CarcarAPP
+    game: https://drive.google.com/file/d/1UkwzUiE0oogYWNQZtJ3lxvqfBQYaF1HX/view?usp=drivesdk
+    youtube: https://youtu.be/i7J1B65YnUo
+    pdf: https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_017_CarcarAPP/CarParkingGame.pdf
     
   - name: BB
     desc: A brick-breaker game developed by Processing. <b>Tilting the phone to control the paddle</b> and keep the ball in the game. Your mission is to <b>remove all the breakable bricks</b> by hitting them with the ball. Interestingly, some bricks need more than a single hit. 
