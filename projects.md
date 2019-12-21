@@ -3,17 +3,17 @@ title: Projects
 bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
-    desc: Gomoku Game.
+    desc: An abstract strategy board game for two players developed by Processing. Players take turns placing a piece of their color (black or white) on one empty intersection. The winner is the first player to form an unbroken row of five pieces horizontally, vertically, or diagonally.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     url: https://www.youtube.com/watch?v=txSBV9NB2jY&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=6
     
   - name: Ten10
-    desc: Tiles stacking game.
+    desc: An additive game developed by Processing. Collecting same tiles to form next stage tiles. The goal is to get the final tile. Within a period of time, all the tiles move up. Once a tile reaches the top of the game border, game is over.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
     url: https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=5
   
   - name: Nodes2.0
-    desc: PinCircle game.
+    desc: An exciting and causal funny game developed by Processing. To pin all the dots one by one to spinning circle with taps. The game is over when a dot gets touch with other dots. It becomes challenging and interesting when going through different levels.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_016_NodesAPP
     url: https://www.youtube.com/watch?v=lVMKEyO-cZs&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=4
   
