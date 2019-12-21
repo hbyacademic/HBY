@@ -3,7 +3,7 @@ title: Projects
 bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
-    desc: An abstract strategy board game for two players developed by Processing. Players take turns placing a piece of their color (black or white) on one empty intersection. The winner is the first player to form an unbroken row of five pieces horizontally, vertically, or diagonally.
+    desc: An 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     url: https://www.youtube.com/watch?v=txSBV9NB2jY&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=6
     
