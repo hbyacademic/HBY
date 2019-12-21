@@ -52,9 +52,13 @@ project-list:
 
 
 <br>
+```
+This is a collection of some projects I've done.
+All the source codes are put on Github.
+```
+--------------------------------------
 
 ## Android Mobile Game App
 
-These projects are developed by Processing.
 
 {% include clickable.html items=page.project-list %}
