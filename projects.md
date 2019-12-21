@@ -1,6 +1,6 @@
 ---
 title: Projects
-bigimg: /img/banners/devel.jpg
+bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
     description: Gomoku Game.
