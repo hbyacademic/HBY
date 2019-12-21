@@ -2,7 +2,7 @@
   {% for item in include.items %}
     <div class="list-circles-item">
       {% if item.name %}
-      <h3 class="item-name"><span class="fa fa-hand-o-right"> </sapn> {{ item.name }} </h3>
+      <h3 class="item-name"><span class="fa fa-hand-o-right"> </span> {{ item.name }} </h3>
       {% endif %} 
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
@@ -35,7 +35,9 @@
         {% endif %}
         <br><br>
         {% if item.img %}
-          <img src="{{ item.img }}" width="50%" hegiht="50%" align="center" class="item-img" />
+          <p align="center">
+            <img src="{{ item.img }}" width="50%" hegiht="50%"class="item-img" />
+          </p>
         {% endif %}
       </div>
     </div>
