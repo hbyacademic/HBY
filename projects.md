@@ -30,10 +30,16 @@ project-list:
   - name: BB
     desc: A brick-breaker game developed by Processing. <b>Tilting the phone to control the paddle</b> and keep the ball in the game. Your mission is to <b>remove all the breakable bricks</b> by hitting them with the ball. Interestingly, some bricks need more than a single hit. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_018_BrickBreakerApp
+    game: https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk
+    youtube: https://www.youtube.com/watch?v=4pWuqv7aU5k
+    pdf: https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_018_BrickBreakerApp/BrickBreaker.pdf
     
   - name: LightNonogram
     desc: A puzzle game developed by Processing. <b>Use the numbers in the rows and columns to solve the puzzle. These numbers tell you the runs of gray squares in each row and column.</b> The gray squares can be put in fill mode and the sign "X"s can be put in mark mode. Five lives are given when game starts. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_019_LightNonogram
+    game: https://drive.google.com/file/d/1NbLWCoXL7JxPNr7BnjfwiRIb2d_E_rAA/view?usp=drivesdk
+    youtube: https://www.youtube.com/watch?v=_MC-CdQUEbA
+    pdf: https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_019_LightNonogram/Nonogram.pdf
     
 ---
 
