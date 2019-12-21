@@ -34,7 +34,12 @@
           <a class="item-link" href="{{ item.game }}" title="Game">
             <span class="fa fa-gamepad fa-2x"></span>
           </a>
-        {% endif %} 
+        {% endif %}
+        {% if item.pdf %}
+          <a class="item-link" href="{{ item.pdf }}" title="Pdf">
+            <span class="fa fa-file-pdf-o fa-2x"></span>
+          </a>
+        {% endif %}
       </div>
     </div>
   <br>
