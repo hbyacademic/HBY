@@ -47,7 +47,7 @@ project-list:
 
 <br>
 
-## Released projects and packages
+## Android Mobile Game App
 
 These projects are developed by Processing.
 
