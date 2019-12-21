@@ -15,7 +15,7 @@ project-list:
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_016_NodesAPP
   
   - name: Carcar
-    descn: A 
+    desc: A 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_017_CarcarAPP
     
  - name: BB
@@ -25,6 +25,7 @@ project-list:
  - name: LightNonogram
     desc: A 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_019_LightNonogram
+    
 ---
 
 
