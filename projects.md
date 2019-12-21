@@ -11,7 +11,7 @@ project-list:
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
   
   - name: Nodes2.0
-    desc: An exciting and causal funny game developed by <a href="https://processing.org/"><a>.. To pin all the dots one by one to spinning circle with taps. The game is over when a dot gets touch with other dots. It becomes challenging and interesting when going through different levels.
+    desc: An exciting and causal funny game developed by <a href="https://processing.org/"><a>. <b>To pin all the dots one by one to spinning circle with taps.</b> The game is over when a dot gets touch with other dots. It becomes challenging and interesting when going through different levels.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_016_NodesAPP
   
   - name: Carcar
