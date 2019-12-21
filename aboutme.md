@@ -4,9 +4,9 @@ title: Biography
 subtitle: know more about me
 ---
 ## Biography 🏃
-I'm now a second-year graduate student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan. 2018.
+- I'm now a second-year graduate student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan. 2018.
 
-My research interests include **reversible data hiding, visual cryptography, digital watermarking, design and analysis of algorithms, and visual localization.** If you are interested in some of my research interests, please have a check to [my paper publications](https://hbyacademic.github.io/HBY/publications/) in conferences and journal.
+- My research interests include **reversible data hiding, visual cryptography, digital watermarking, design and analysis of algorithms, and visual localization.** If you are interested in some of my research interests, please have a check to [my paper publications](https://hbyacademic.github.io/HBY/publications/) in conferences and journal.
 
 - I'm a novice in the field of visual localization. To record my learning process, since Jun. 2019, I have written articles about visual localization on [My Website](https://hbyacademic.github.io/HBY/). 
 
@@ -43,6 +43,8 @@ Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressiv
 Chang, J., **Huang, B. Y.**, & Juan, J. (2018). [A New Visual Multi-Secrets Sharing Scheme by Random Grids.](https://www.mdpi.com/2410-387X/2/3/24) Cryptography, 2(3), 24.
 
 **Huang, B. Y.**, & Juan, J. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
+
+## Experience 🔍
 - Online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
    - know-how of Flappy bird game (at Nov. 1st, 2018 from Denmark)
    - binzariation techniques (at Nov. 22th, 2018 from India)
