@@ -11,9 +11,8 @@ subtitle: know more about me
 - Since Feb. 2017, I have uploaded mini side projects to [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel, where topics including **image processing, game designing, and something interesting & informative**. The source codes are all released on [Github](https://github.com/hbyacademic). Some image processing effects can be feteched on [OpenProcessing](https://www.openprocessing.org/user/183031#sketches).
 
 ## Most Viewed & Discussed Videos 🏆
-- [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image. #view: 8546
-      
-- [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
+- [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image. #view: 8546  
+- [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection. #views: 4797
     
     
 ## Featured Articles on Medium 📝
