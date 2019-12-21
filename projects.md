@@ -16,6 +16,10 @@ All the source codes are put on Github.
     <i class="fa fa-home"></i>
 </a>
 
+<a href="https://processing.org/" class="icon-block">
+    <i class="fa fa-github"></i>
+</a>
+
 <p align="center">
 <img src="../img/piece.jpg" width="50%" hegiht="50%"/>
 </p>
