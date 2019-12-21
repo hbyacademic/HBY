@@ -13,7 +13,7 @@ project-list:
     url: https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=5
   
   - name: Nodes2.0
-    desc: An exciting and causal funny game developed by Processing. To pin all the dots one by one to spinning circle with taps. The game is over when a dot gets touch with other dots. It becomes challenging and interesting when going through different levels.
+    desc: An 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_016_NodesAPP
     url: https://www.youtube.com/watch?v=lVMKEyO-cZs&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=4
   
@@ -30,8 +30,7 @@ project-list:
  - name: LightNonogram
     desc: A puzzle game developed by Processing. Use the numbers in the rows and columns to solve the puzzle. These numbers tell you the runs of gray squares in each row and column. The gray squares can be put in fill mode and the sign "X"s can be put in mark mode. Five lives are given when game starts.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_019_LightNonogram
-    
-    
+    url: https://www.youtube.com/watch?v=_MC-CdQUEbA&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1
 ---
 
 
