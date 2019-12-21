@@ -26,6 +26,11 @@ project-list:
     description: Brick Breaker game.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_018_BrickBreakerApp
     url: https://www.youtube.com/watch?v=4pWuqv7aU5k&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=2
+    
+ - name: LightNonogram
+    description: Nonogram game.
+    github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_019_LightNonogram
+    url: https://www.youtube.com/watch?v=_MC-CdQUEbA&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1
   
 ---
 
