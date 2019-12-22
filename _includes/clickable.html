@@ -8,11 +8,6 @@
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
       <div class="item-links">
-        {% if item.website %}
-          <a class="item-link" href="{{ item.website }}" title="Website">
-            <span class="fa fa-home fa-2x"></span>
-          </a>
-        {% endif %}
         {% if item.github %}
           <a class="item-link" href="{{ item.github }}" title="GitHub">
             <span class="fa fa-github fa-2x"></span>
@@ -34,11 +29,17 @@
           </a>
         {% endif %}
         <br><br>
-        {% if item.img %}
+        {% if item.video %}
           <div align="center">
-            <video width="50%" height="50%" autoplay="autoplay" loop="loop">
-              <source src="{{ item.img }}" type="video/mp4">
-            </video>
+            {% if item.horizontal == true %}
+              <video width="35%" height="35%" autoplay="autoplay" loop="loop">
+                <source src="{{ item.video }}" type="video/mp4">
+              </video>
+            {% else %}
+              <video width="25%" height="25%" autoplay="autoplay" loop="loop">
+                <source src="{{ item.video }}" type="video/mp4">
+              </video>
+            {% endif %}
           </div>
         {% endif %}
       </div>
