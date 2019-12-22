@@ -14,7 +14,7 @@ project-list:
     desc: An additive game developed by Processing. <b>Collecting same tiles to form next stage tiles.</b> The goal is to get the final tile. Within a period of time, all the tiles move up. Once a tile reaches the top of the game border, game is over. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
     game: https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk
-    youtube: https://youtu.be/-c3Kcaj54I
+    youtube: https://youtu.be/-c3Kcaj54Ik
   
   - name: Nodes2.0
     img: ../DemoVideo/NodeDemo.mp4
