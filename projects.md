@@ -32,7 +32,7 @@ project-list:
     pdf: https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_017_CarcarAPP/CarParkingGame.pdf
     
   - name: BrickBreaker
-    img: ../img/brickbreaker.png
+    img: ../DemoVideo/BrickBreakerDemo.mp4
     desc: A brick-breaker game developed by Processing. <b>Tilting the phone to control the paddle</b> and keep the ball in the game. Your mission is to <b>remove all the breakable bricks</b> by hitting them with the ball. Interestingly, some bricks need more than a single hit. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_018_BrickBreakerApp
     game: https://drive.google.com/file/d/1-VMG3qbMG9ntF4TqOn7Yqm_MnCHc-uUp/view?usp=drivesdk
