@@ -56,7 +56,7 @@ All the source codes are put on Github.
 ```
 --------------------------------------
 
-# Android Mobile Game Application
+## Android mobile game application
 
 
 {% include clickable.html items=page.project-list %}
