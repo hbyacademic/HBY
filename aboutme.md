@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Biography
+#bigimg: /img/background.jpg
 #subtitle: know more about me
 ---
 
@@ -16,7 +17,11 @@ Since Feb. 2017, I have uploaded mini side projects to [Youtube](https://www.you
 
 I have some experiences to online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
    - know-how of Flappy bird game (at Nov. 1st, 2018 from Denmark)
+   
    - binzariation techniques (at Nov. 22th, 2018 from India)
+   
    - know-how of sliding puzzle (at Jun. 4th, 2019 from Colombia) 
+   
    - smoothing filter (at Jan. 22th, 2019 from Taiwan)
+   
    - Sobel filter (at Feb. 16th, 2019 from Taiwan)
