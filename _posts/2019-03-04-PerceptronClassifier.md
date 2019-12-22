@@ -9,7 +9,7 @@ Here is an approach to implement simple perception classifier (<font color="#dd0
 We choose the Iris dataset. This dataset contains 3 classes of 50 instances each, where each class refers to a type of Iris plant. The first two classes are linearly separable from each other, whereas the last class is not linearly separable from each other. We only take the first two linearly separable classes. There are four steps to implement perceptron classifier as follows.
 
 ## Step 1: Load dataset <br>
-In matlab, we use `textread` to load the dataset with text format. In this dataset, there are four attributes except for the class name and each attribute is separated by comma. Note that in `textread`, the second parameter is the data type of the dataset (in Iris dataset, the first four features are floating number and the last one is the string), and the fourth one is the delimiter used in the dataset. As the result, we can write the followiong code.
+In matlab, we use `textread` to load the dataset with text format. In this dataset, there are four attributes except for the class name and each attribute is separated by comma. Note that in `textread`, the second parameter is the data type of the dataset (in Iris dataset, the first four features are floating point number and the last one is a string), and the fourth one is the delimiter used in the dataset. As the result, we can write the followiong code.
 ```matlab
 [atrb1,atrb2,atrb3,atrb4,className]=textread(filename,'%f%f%f%f%s','delimiter,',');
 ```
@@ -74,7 +74,7 @@ We give the entire concept of the perceptron classifier as follows. <br>
 It is one of <font color="#dd0000">the linear classifier which has linear decision bounderies.</font> A linear classifier provides multiple linear equations to divide the classes into several regions. <br><br>
 Now, we focus on the two-class problem, that is, only one linear equation is generated. Here is an example. Assume the point (2, 2) belongs to class1 whereas the point (0, 0) is an element in class2 and there is a decision boundary 2x + 3y - 4 = 0. 
 
-### 2. How to verify the correctness of this eqaution? <br>
+### 2. How to verify the correctness of this equation? <br>
 The point (2, 2) gives the result 2 * 2 + 3 * 2 - 4 > 0 while the point (0, 0) gives the result 2 * 0 + 3 * 0 - 4 < 0. One can find that the point (2, 2) gets the result "> 0" whereas the point (0, 0) gets "< 0" (i.e., they are on the different sides of the boundary). <br><br>
 The coefficients 2, 3, and 4 (x, and y) can be viewed as the weight vector W: [w<sub>1</sub>, w<sub>2</sub>, w<sub>3</sub>] (instances X: [x<sub>1</sub>, x<sub>2</sub>]). As the result, the equation 2x + 3y - 4 = 0 can be rewritten as W·X<sup>T</sup>=0, where "·" stands for inner product. However, we want to use this equation to do evaluation, it cannot be assigned to zero. <font color="#dd0000">It should be: W·X<sup>T</sup> > 0 if X is in class1 and W·X<sup>T</sup> < 0 if X is in class2. </font><br>
 
