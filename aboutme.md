@@ -12,9 +12,9 @@ Since Jun. 2019, I have written articles about visual localization on [My Websit
 
 Since Jan. 2019, I have written articles about image processing on [medium](https://medium.com/@hbyacademic).
 
-Since Feb. 2017, I have uploaded mini side projects to [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel, where topics including **image processing, game designing, and something interesting & informative**. The source codes are all released on [Github](https://github.com/hbyacademic). Some image processing effects can be feteched on [OpenProcessing](https://www.openprocessing.org/user/183031#sketches).
+Since Feb. 2017, I have uploaded mini side projects to [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel, of which topics including **image processing, game designing, and something interesting & informative**. The source codes are all released on [Github](https://github.com/hbyacademic). Some image processing effects can be feteched on [OpenProcessing](https://www.openprocessing.org/user/183031#sketches).
 
-I have some experiences to online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
+Moreover, I have some experiences in teaching P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic). My teaching experiences are listed as follows.  
    - know-how of Flappy bird game (at Nov. 1st, 2018 from Denmark)
    
    - binzariation techniques (at Nov. 22th, 2018 from India)
