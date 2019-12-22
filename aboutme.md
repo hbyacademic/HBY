@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Biography
-bigimg: /img/background.jpg
 #subtitle: know more about me
 ---
 
