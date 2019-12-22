@@ -1,6 +1,6 @@
 ---
 title: Projects
-bigimg: /img/bgimage.png
+#bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
     video: ../DemoVideo/GomokuDemo.mp4
