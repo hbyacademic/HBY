@@ -11,7 +11,7 @@ You can search these papers via Google Scholar.
 
 ## Journal
 
-* **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[Flexible meaningful visual multi-secret sharing scheme by random grids](https://link.springer.com/article/10.1007/s11042-019-08436-w), " Multimedia Tools and Applications, 1-25, 2020.
+* **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[Flexible meaningful visual multi-secret sharing scheme by random grids](https://link.springer.com/article/10.1007/s11042-019-08436-w)," Multimedia Tools and Applications, 1-25, 2020.
 <a href="https://www.scimagojr.com/journalsearch.php?q=25627&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25627" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 * Ying-Yu Chen, **Bo-Yuan Huang**, Justie Su-Tzu Juan, "[A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28)," Cryptography, 2(4), 28, 2018.
