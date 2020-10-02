@@ -49,14 +49,9 @@ project-list:
     pdf: https://github.com/hbyacademic/Game-Designing-PlayList/blob/master/GD_019_LightNonogram/Nonogram.pdf
     
 ---
-
-```
-This is a collection of some projects I've done.
-All the source codes are put on Github.
-```
 --------------------------------------
 
-## Android mobile game application
+## Image Processing Effect
 
 
 {% include clickable.html items=page.project-list %}
