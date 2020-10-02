@@ -44,6 +44,11 @@ project-list:
     github: https://github.com/hbyacademic/Image-Processing-PlayList/tree/master/IP_009_XOR%20Encryption
     youtube: https://youtu.be/YrqRk7aTj3U
 
+  - name: Pixelization
+    img: ../img/pixelization.png
+    github: https://github.com/hbyacademic/Interesting-PlayList/tree/master/INTS_011_Pixelization
+    youtube: https://youtu.be/wUKVqNVKzvQ
+
   - name: Harris Corner Detector
     img: ../img/harris.png
     desc: A corner detection algorithm.
