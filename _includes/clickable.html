@@ -7,6 +7,13 @@
       {% if item.desc %}
         <div class="item-desc">{{ item.desc }}</div>
       {% endif %}
+
+      {% if item.img %}
+          <div align="center">
+            <img src="{{ item.img }}" alt="Girl in a jacket" width="320px" height="180px">
+          </div>
+      {% endif %}
+
       <div class="item-links">
         {% if item.github %}
           <a class="item-link" href="{{ item.github }}" title="GitHub">
@@ -28,14 +35,7 @@
             <span class="fa fa-file-pdf-o fa-2x"></span>
           </a>
         {% endif %}
-        <br><br>
-        
-        {% if item.img %}
-          <div align="center">
-            <img src="{{ item.img }}" alt="Girl in a jacket" width="320px" height="180px">
-          </div>
-        {% endif %}
-        
+        <br><br>     
         {% if item.video %}
           <div align="center">
             {% if item.horizontal == true %}
