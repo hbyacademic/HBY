@@ -28,7 +28,7 @@ project-list:
 
   - name: Morphological Processing
     img: ../img/morphological.png
-    desc: Used to enhance features or texture of one image. Four major operations: dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion).    github:
+    desc: Used to enhance features or texture of one image. Four major operations: dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion).    
     github:
     youtube:
 
