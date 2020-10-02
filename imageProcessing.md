@@ -17,21 +17,20 @@ project-list:
   - name: 8 Bit Plane Slicing
     img: ../img/bitPlane.png
     desc: Slice grayscale image into 8 planes. 1st and 8th planes stand for low- and high-frequency signals, respectively.
-    github:
-    youtube:
+    github: https://youtu.be/-c3Kcaj54Ik
+    youtube: https://youtu.be/-c3Kcaj54Ik
 
   - name: Linear Contrast Stretching
     img: ../img/contrastStretching.png
     desc: Make low-constrast image more clear.
-    github:
-    youtube:
+    github: https://youtu.be/-c3Kcaj54Ik
+    youtube: https://youtu.be/-c3Kcaj54Ik
 
   - name: Morphological Processing
     img: ../img/morphological.png
     desc: Used to enhance features or texture of one image. Four major operations: dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion).    
-    github:
-    youtube:
-
+    github: https://youtu.be/-c3Kcaj54Ik
+    youtube: https://youtu.be/-c3Kcaj54Ik
 
 
 ---
