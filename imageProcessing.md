@@ -20,13 +20,13 @@ project-list:
     github:
     youtube:
 
-  - name: Linear Constrast Stretching
-    img: ../img/constrastStretching.png
+  - name: Linear Contrast Stretching
+    img: ../img/contrastStretching.png
     desc: slice one image into 8 planes.
     github:
     youtube:
 
-  - name: Morphological
+  - name: Morphological Processing
     img: ../img/morphological.png
     desc: slice one image into 8 planes.
     github:
