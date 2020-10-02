@@ -5,52 +5,88 @@ project-list:
   - name: Canny Edge Detection
     img: ../img/canny.png
     desc: An edge detection algorithm. Five steps => RGB to grayscale, noise removal, edge detection, edge thinning, and connect weak edges. 
-    github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
-    youtube: https://youtu.be/txSBV9NB2jY
+    github: 
+    youtube: https://youtu.be/PtSgA19sC5g
 
   - name: OTSU Thresholding
     img: ../img/otsu.png
     desc: An image binarization. Maximize between-class variance/Minimize within-class variance.
-    github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
-    youtube: https://youtu.be/-c3Kcaj54Ik
+    github: 
+    youtube: https://youtu.be/Ofi1Fn18YLc
 
   - name: 8 Bit Plane Slicing
     img: ../img/bitPlane.png
     desc: Slice grayscale image into 8 planes. 1st and 8th planes stand for low- and high-frequency signals, respectively.
-    github: https://youtu.be/-c3Kcaj54Ik
-    youtube: https://youtu.be/-c3Kcaj54Ik
+    github: 
+    youtube: https://youtu.be/JOpmTa4Lojs
 
   - name: Linear Contrast Stretching
     img: ../img/contrastStretching.png
     desc: Make low-constrast image more clear.
-    github: https://youtu.be/-c3Kcaj54Ik
-    youtube: https://youtu.be/-c3Kcaj54Ik
+    github: 
+    youtube: https://youtu.be/R25DMf8EveI
 
   - name: Morphological Processing
     img: ../img/morphological.png
     desc: Be used to enhance features or texture of one image. Four major operations => dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion). 
-    github: https://youtu.be/-c3Kcaj54Ik
-    youtube: https://youtu.be/-c3Kcaj54Ik
+    github: 
+    youtube: https://youtu.be/QbjfZVLDyuY
 
   - name: Image Scaling
     img: ../img/scaling.png
     desc: Two common techniques => nearest neighbor interpolation (NNI) and bilinear interpolation (BI).
     github:
-    youtube:
+    youtube: https://youtu.be/UA7Wjr4WuhA
 
   - name: XOR Encoding
     img: ../img/xorEncode.png
     desc: key XOR secret = cipher, cipher XOR key = secret
     github:
-    youtube:
+    youtube: https://youtu.be/YrqRk7aTj3U
 
   - name: Harris Corner Detector
     img: ../img/harris.png
     desc: A corner detection algorithm.
     github:
-    youtube:
+    youtube: https://youtu.be/qX4gQIsBrhE
+  
+  - name: Histogram Equalization
+    img: ../img/histogramEqualization.png
+    desc: Non-linear contrast stretching. To equally make use of all available grayscales in the dynamic range.
+    github:
+    youtube: https://youtu.be/W7wjEq5MYPU
 
+  - name: Alpha Blending
+    img: ../img/alpha.png
+    desc: Blend two images into one resultant image by linear combination.
+    github:
+    youtube: https://youtu.be/SUGjYvbaX1U
+  
+  - name: Frosted Glass Effect
+    img: ../img/glass.png
+    desc: As title.
+    github:
+    youtube: https://youtu.be/9Mf2MDZLyPA
+  
+  - name: Color Splitting Glitch Effect
+    img: ../img/glitch.png
+    desc: As title.
+    github:
+    youtube: https://youtu.be/B4J5-xsocOI
 
+  - name: Oil Painting Effect
+    img: ../img/oil.png
+    desc: As title.
+    github:
+    youtube: https://youtu.be/CqSiZV-M1HY
+
+  - name: Ordered Dithering 
+    img: ../img/oil.png
+    desc: As title.
+    github:
+    youtube: https://youtu.be/e61N6tDnfSk
+
+  
   
 ---
 --------------------------------------
