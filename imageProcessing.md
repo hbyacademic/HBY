@@ -10,7 +10,7 @@ project-list:
     youtube: https://youtu.be/txSBV9NB2jY
  
   - name: OTSU Thresholding
-    img: ../img/ostu.png
+    img: ../img/otsu.png
     desc: 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
     game: https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk
