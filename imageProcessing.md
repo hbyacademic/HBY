@@ -17,7 +17,7 @@ project-list:
   - name: 8 Bit Plane Slicing
     img: ../img/bitPlane.png
     desc: Slice grayscale image into 8 planes. 1st and 8th planes stand for low- and high-frequency signals, respectively.
-    github: 
+    github: https://github.com/hbyacademic/Interesting-PlayList/tree/master/INTS_015_BitPlaneSlicing
     youtube: https://youtu.be/JOpmTa4Lojs
 
   - name: Linear Contrast Stretching
@@ -86,7 +86,7 @@ project-list:
   - name: ASCII Art 
     img: ../img/ascii.png
     desc: Use characters represent an image. Each character stands for one intensity. Thinnest character => lower intensity, boldest character => higher intensity (or thinnest => higher, boldest => lower).
-    github:
+    github: https://github.com/hbyacademic/Interesting-PlayList/tree/master/INTS_021_ASCIIart
     youtube: https://youtu.be/YJ9HqHbICC8
 
 ---
