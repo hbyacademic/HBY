@@ -44,11 +44,13 @@ project-list:
     github:
     youtube:
 
-  - name: 
-    img: ../img/xorEncode.png
-    desc: Two common techniques => nearest neighbor interpolation (NNI) and bilinear interpolation (BI).
+  - name: Harris Corner Detector
+    img: ../img/harris.png
+    desc: A corner detection algorithm.
     github:
     youtube:
+
+
   
 ---
 --------------------------------------
