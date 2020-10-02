@@ -4,14 +4,14 @@ title: Image Processing
 project-list:
   - name: Canny Edge Detection
     img: ../img/canny.png
-    desc: An abstract strategy board game for two players developed by Processing. Players <b>take turns placing a piece</b> of their color (black or white) on one empty intersection. The winner is the first player to <b>form an unbroken row of five pieces horizontally, vertically, or diagonally.</b>
+    desc: 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     game: https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU
     youtube: https://youtu.be/txSBV9NB2jY
  
   - name: OTSU Thresholding
     img: ../img/ostu.png
-    desc: An additive game developed by Processing. <b>Collecting same tiles to form next stage tiles.</b> The goal is to get the final tile. Within a period of time, all the tiles move up. Once a tile reaches the top of the game border, game is over. 
+    desc: 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
     game: https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk
     youtube: https://youtu.be/-c3Kcaj54Ik
