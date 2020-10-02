@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Games
 #bigimg: /img/bgimage.png
 project-list:
   - name: Gomoku
