@@ -10,13 +10,13 @@ project-list:
  
   - name: OTSU Thresholding
     img: ../img/otsu.png
-    desc: 
+    desc: An image binarization. Maximize between-class variance/Minimize within-class variance.
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_015_Ten10APP
     youtube: https://youtu.be/-c3Kcaj54Ik
   
-  - name: Bit Plane Slicing
+  - name: 8 Bit Plane Slicing
     img: ../img/bitPlane.png
-    desc: slice one image into 8 planes.
+    desc: Slice grayscale image into 8 planes. 1st and 8th planes stand for low- and high-frequency signals, respectively.
     github:
     youtube:
 
