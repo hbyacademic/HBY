@@ -25,6 +25,7 @@ description: To be the unique one, not the best one!
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
+  ImageProcessing: "imageProcessing"
   Projects: "projects"
   Articles: "articles"
   Lecture Notes: "lecturenotes"
