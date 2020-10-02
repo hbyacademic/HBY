@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Image Processing 
 #bigimg: /img/bgimage.png
 project-list:
   - name: Canny Edge Detection
