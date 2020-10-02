@@ -3,7 +3,8 @@ title: Image Processing
 #bigimg: /img/bgimage.png
 project-list:
   - name: Canny Edge Detection
-    image: ../img/canny.png
+    <img src="../img/canny.png" alt="drawing" style="width:320px;height:180px;">
+    image: 
     desc: An abstract strategy board game for two players developed by Processing. Players <b>take turns placing a piece</b> of their color (black or white) on one empty intersection. The winner is the first player to <b>form an unbroken row of five pieces horizontally, vertically, or diagonally.</b>
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     game: https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU
