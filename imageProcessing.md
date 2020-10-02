@@ -64,30 +64,31 @@ project-list:
   
   - name: Frosted Glass Effect
     img: ../img/glass.png
-    desc: As title.
     github:
     youtube: https://youtu.be/9Mf2MDZLyPA
   
   - name: Color Splitting Glitch Effect
     img: ../img/glitch.png
-    desc: As title.
     github:
     youtube: https://youtu.be/B4J5-xsocOI
 
   - name: Oil Painting Effect
     img: ../img/oil.png
-    desc: As title.
     github:
     youtube: https://youtu.be/CqSiZV-M1HY
 
   - name: Ordered Dithering 
-    img: ../img/oil.png
-    desc: As title.
+    img: ../img/order.png
+    desc: An image dithering algorithm, which is characterized by noticeable crosshatch patterns in the resultant image.
     github:
     youtube: https://youtu.be/e61N6tDnfSk
+ 
+  - name: ASCII Art 
+    img: ../img/ascii.png
+    desc: Use characters represent an image. Each character stands for one intensity. Thinnest character => lower intensity, boldest character => higher intensity (or thinnest => higher, boldest => lower).
+    github:
+    youtube: https://youtu.be/YJ9HqHbICC8
 
-  
-  
 ---
 --------------------------------------
 
