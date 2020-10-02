@@ -4,7 +4,7 @@ title: Image Processing
 project-list:
   - name: Canny Edge Detection
     img: ../img/canny.png
-    desc: An edge detection algorithm. Five steps ＝＞ RGB to grayscale, noise removal, edge detection, edge thinning, and connect weak edges. 
+    desc: An edge detection algorithm. Five steps => RGB to grayscale, noise removal, edge detection, edge thinning, and connect weak edges. 
     github: https://github.com/hbyacademic/Game-Designing-PlayList/tree/master/GD_014_GomokuAPP
     youtube: https://youtu.be/txSBV9NB2jY
 
@@ -28,11 +28,28 @@ project-list:
 
   - name: Morphological Processing
     img: ../img/morphological.png
-    desc: Used to enhance features or texture of one image. Four major operations ＝＞ dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion). 
+    desc: Be used to enhance features or texture of one image. Four major operations => dilation, erosion, opening (erosion then dilation), and closing (dilation then erosion). 
     github: https://youtu.be/-c3Kcaj54Ik
     youtube: https://youtu.be/-c3Kcaj54Ik
 
+  - name: Image Scaling
+    img: ../img/scaling.png
+    desc: Two common techniques => nearest neighbor interpolation (NNI) and bilinear interpolation (BI).
+    github:
+    youtube:
 
+  - name: XOR Encoding
+    img: ../img/xorEncode.png
+    desc: key XOR secret = cipher, cipher XOR key = secret
+    github:
+    youtube:
+
+  - name: 
+    img: ../img/xorEncode.png
+    desc: Two common techniques => nearest neighbor interpolation (NNI) and bilinear interpolation (BI).
+    github:
+    youtube:
+  
 ---
 --------------------------------------
 
