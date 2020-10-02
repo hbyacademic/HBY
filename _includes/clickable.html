@@ -29,6 +29,13 @@
           </a>
         {% endif %}
         <br><br>
+        
+        {% if item.img %}
+          <div align="center">
+            <img src="{{ item.img }}" alt="Girl in a jacket" width="320px" height="180px">
+          </div>
+        {% endif %}
+        
         {% if item.video %}
           <div align="center">
             {% if item.horizontal == true %}
