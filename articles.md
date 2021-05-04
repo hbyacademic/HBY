@@ -16,6 +16,8 @@ All the articles are put on Pixnet or Medium.
 * Aug 27 2018 [打工生活(二) - 芭樂園](http://idiot3838.pixnet.net/blog/post/230828774)
 
 ## Technical articles
+* May 04 2021 [How to Deceive your eyes?](https://link.medium.com/mJTwuh4ZYfb)
+* Apr 27 2021 [Mathematical Secrets behind Image Binarization - Otsu Thresholding](https://link.medium.com/9CrSzABxNfb)
 * Sep 09 2019 [Old photo effect](https://link.medium.com/lS6vj5nqf0)
 * Jan 26 2019 [Morphological image processing](https://link.medium.com/I9R0YPIkPT)
 * Jan 19 2019 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) 
